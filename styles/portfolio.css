@@ -28,7 +28,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 40px 200px;
+    padding: 40px 200px;
     
 }
 .nav-title {
@@ -151,6 +151,9 @@ main{
 
 }
 /* resume styles */
+.resume{
+    padding: 50px 10px;
+}
 .resume-content{
     display: flex;
     gap: 24px;
